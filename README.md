@@ -1,6 +1,8 @@
 # alfred-dock
 An Alfred workflow to help you change dock orientation.
 
+![demo](demo.gif)
+
 ## Installation
 
 Download the workflow file from [here](https://github.com/awmleer/alfred-dock/releases), and then add it to Alfred.
